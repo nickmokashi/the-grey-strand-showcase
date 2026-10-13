@@ -18,7 +18,7 @@ A grey strand runs through every page of it. It follows you as you go, and it ca
 * **The Breakfast Nook.** The podcast, playing right on the page.
 * **The Study.** The books he has published.
 * **The Office.** The books still being made, and a receipt for every pass of research behind the work: the date, what it was for, a summary and every source, so the work can be checked.
-* **The Library.** Old spiritual texts that belong to everyone, each with a note on what to expect and a free place to read it.
+* **The Library.** Old spiritual texts, free to read, each with a note on what to expect and a link straight to the text. Each one says whether it is in the public domain or a modern translation shared free.
 * **The Bathroom.** The Mirror Tarot: every card, and a free three-card reading. A mirror, not a forecast.
 * **The Hallway.** His paintings, hung along the wall.
 * **The Basement.** Frequencies to sit with, free to play or to keep.
