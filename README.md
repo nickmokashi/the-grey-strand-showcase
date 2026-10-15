@@ -6,7 +6,7 @@
 
 **[thegreystrand.com](https://thegreystrand.com)** is where Greygray keeps everything he creates: articles, a podcast, books, a tarot deck, paintings, sound, software and games. It is not laid out as a menu of pages. It is a house. You come in by the front door, and each room holds a different kind of work.
 
-A grey strand runs through every page of it. It follows you as you go, it rings when you cross it, and when you pull it, it sings: quietly, starting on a note set by where you took hold, and climbing as you draw it out.
+A grey strand runs through every page of it. It follows you as you go, it rings when you cross it, and when you pull it, it sings on a slow, steady beat, starting on a note set by where you took hold and climbing as you draw it out. Let go and it springs back into place with a chord.
 
 ## The rooms
 
