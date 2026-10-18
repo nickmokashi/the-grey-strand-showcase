@@ -25,6 +25,8 @@ A grey strand runs through every page of it. It follows you as you go, it rings 
 * **The Garage.** The software he has made.
 * **The Back Yard.** Games and worlds, some of them playable right there.
 
+Every room has a song of its own, one he made for it, waiting behind a Play button at the top of the room. Nothing plays until you ask, and once you stop it, the house stays quiet for you.
+
 ![The Kitchen](shots/kitchen.png)
 
 ![The Library, by day](shots/library.png)
