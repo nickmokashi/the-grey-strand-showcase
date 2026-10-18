@@ -23,9 +23,9 @@ A grey strand runs through every page of it. It follows you as you go, it rings 
 * **The Hallway.** His paintings, hung along the wall.
 * **The Basement.** Frequencies to sit with, free to play or to keep.
 * **The Garage.** The software he has made.
-* **The Back Yard.** Games and worlds, some of them playable right there.
+* **The Back Yard.** Games and worlds, most of them playable right there, among them Polaritium, a universe of opposing forces whose code is open for anyone.
 
-Every room has a song of its own, one he made for it, waiting behind a Play button at the top of the room. Nothing plays until you ask, and once you stop it, the house stays quiet for you.
+Every room has a song of its own, one he made for it, waiting behind a Play button at the top of the room. Nothing plays until you ask, and once you stop it, the house stays quiet for you. All of them together are the house's soundtrack, free to download from the Entry.
 
 ![The Kitchen](shots/kitchen.png)
 
