@@ -23,7 +23,7 @@ A grey strand runs through every page of it. It follows you as you go, it rings 
 * **The Hallway.** His paintings, hung along the wall.
 * **The Basement.** Frequencies to sit with, free to play or to keep.
 * **The Garage.** The software he has made.
-* **The Back Yard.** Games and worlds, most of them playable right there, among them Polaritium, a universe of opposing forces you can reach into.
+* **The Back Yard.** Games and worlds, most of them playable right there, and the others shown on their own showcases.
 
 Every room has a song of its own, one he made for it, waiting behind a Play button at the top of the room. Nothing plays until you ask, and once you stop it, the house stays quiet for you. All of them together, with every other song he has made for the house, are the soundtrack, The Complete Recordings, free to download from the Entry: the rooms' songs listed, the rest hidden after the last one, in a box-set sleeve of home-taped cassettes.
 
